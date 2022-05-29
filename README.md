@@ -1,16 +1,11 @@
 # e-comerce-back-end
 
-## Your Task
-Internet retail, also known as e-commerce, is the largest sector of the electronics industry, having generated an estimated US$29 trillion in 2017 (Source: United Nations Conference on Trade and Development). E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
+## Description
 
-Your challenge is to build the back end for an e-commerce site. You’ll take a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
+The challange in this application is to build the back end for an e-commerce site. By taking a working Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
-Because this application won’t be deployed, you’ll also need to create a walkthrough video that demonstrates its functionality and all of the following acceptance criteria being met. You’ll need to submit a link to the video and add it to the README of your project.
+Because this application won’t be deployed. You can find a Demo Video at the end of this ReadMe File
 
-IMPORTANT
-Make sure to clone the starter code repository and make your own repository with the starter code. Do not fork the starter code repository!
-
-Before you start, clone the starter code (Links to an external site.).
 
 ## User Story
 AS A manager at an internet retail company
@@ -28,7 +23,26 @@ WHEN I open API GET routes in Insomnia for categories, products, or tags
 THEN the data for each of these routes is displayed in a formatted JSON
 WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
-Mock-Up
-The following animations show examples of the application's API routes being tested in Insomnia.
 
-The first animation shows GET routes to return all categories, all products, and all tags being tested in Insomnia:
+
+## Mock-Up
+
+Example of a GET request
+!['Example of a GET request'](./mock-ups/example1.png)
+
+Example of a POST request
+!['Example of a GET request'](./mock-ups/example2.png)
+
+Example of a OTHER types of working request
+!['Example of a GET request'](./mock-ups/example3.png)
+
+## Links
+
+### Demo Video(s)
+1st Part
+https://drive.google.com/file/d/1niUkdliYJlfgb42om-IFrkfKAl9RauYk/view (Links to an external site.)
+
+2nd Part
+https://drive.google.com/file/d/1ZIUPLhyiWqvdlNFl5eiGGWq-PppsQ6km/view (Links to an external site.)
+ 
+
